@@ -1,0 +1,26 @@
+{
+  "name": "budget-tracker",
+  "version": "1.0.0",
+  "description": "app to keep track of your expenses",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adelalama/Workout-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adelalama/Workout-Tracker/issues"
+  },
+  "homepage": "https://github.com/adelalama/Workout-Tracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "lite-server": "^2.6.1",
+    "mongoose": "^5.13.7",
+    "morgan": "^1.10.0"
+  }
+}
