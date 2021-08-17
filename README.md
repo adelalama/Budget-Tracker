@@ -20,7 +20,7 @@ Offline functionality:
 ![sh1](./assets/sh1.png)
 
 Online Functionality:
-![sh2](assets\sh2.png)
+![sh2](./assets/sh2.png)
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
